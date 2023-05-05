@@ -33,6 +33,41 @@
     width: 100px;
 }
 
+/* success-student  */
+.student-feedback {
+    position: relative;
+}
+
+.success-student {}
+
+.success-student-btn-left {
+    position: absolute;
+    top: 120px;
+    transform: translate(-100%);
+    font-size: 30px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+
+}
+
+.success-student-btn-right {
+    position: absolute;
+    top: 120px;
+    right: 0;
+    transform: translate(115%);
+    font-size: 30px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+
+}
+
+
+
+
+.success-student-btn {}
+
 /* footer styel  */
 .footer-icon {
     width: 45px;
