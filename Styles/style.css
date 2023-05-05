@@ -1,0 +1,33 @@
+nav section .nav-link {
+    margin-right: 2rem;
+}
+
+/* carousel custom style  */
+
+.custom-shadow img {
+    border-radius: 0.5rem;
+}
+
+.custom-shadow::before {
+    content: '';
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    position: absolute;
+    opacity: 50%;
+    border-radius: 0.5rem;
+}
+
+.carousel-caption {
+    padding: 100px;
+    top: 11rem;
+}
+
+.customs-font {
+    font-size: 3rem;
+}
+
+/* course image style */
+.course-img {
+    width: 100px;
+}
