@@ -1,4 +1,5 @@
-nav section .nav-link {
+/* nav bar  */
+.nav-link {
     margin-right: 2rem;
 }
 
@@ -30,4 +31,11 @@ nav section .nav-link {
 /* course image style */
 .course-img {
     width: 100px;
+}
+
+/* footer styel  */
+.footer-icon {
+    width: 45px;
+    height: 45px;
+    margin-right: 1rem;
 }
